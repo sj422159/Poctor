@@ -16,7 +16,7 @@ import signal
 import logging
 
 # ====================== Configuration ======================
-BACKEND_URL = "http://127.0.0.1:8000/add-warning"
+BACKEND_URL = "https://poctor.onrender.com/add-warning"
 LOG_FILE = "proctoring_log.txt"
 ALERTS_DIR = "alerts"
 YOLO_WEIGHTS = "yolo-Weights/yolov8n.pt"
