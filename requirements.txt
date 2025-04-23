@@ -5,3 +5,4 @@ SpeechRecognition
 langdetect
 ultralytics
 requests
+cv2
