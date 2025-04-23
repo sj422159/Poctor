@@ -6,3 +6,4 @@ SpeechRecognition
 langdetect
 ultralytics
 requests
+fastapi
